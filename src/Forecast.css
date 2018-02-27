@@ -1,0 +1,8 @@
+.Forecast {
+  background: rgba(0, 0, 0, .4);
+  padding: 20px;
+}
+
+.Forecast ul {
+  padding: 5px 30px;
+}

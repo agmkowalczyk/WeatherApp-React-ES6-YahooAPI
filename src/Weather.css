@@ -1,0 +1,9 @@
+.Weather {
+  background: rgba(0,0,0,.4);
+  padding: 10px;
+}
+
+.Weather-spinner {
+  margin-top: 50px;
+  text-align: center;
+}

@@ -1,0 +1,29 @@
+.App {
+  text-shadow: 1px 1px 1px rgba(0,0,0,.5);
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  height: 15vh;
+  padding: 10px 0 10px 15px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App-title {
+  font-size: 2em;
+  letter-spacing: 1px;
+}
+
+.slow-spin {
+  animation: a 10s infinite linear;
+}
+
+.section-title {
+  border-bottom: 1px solid rgba(255,255,255,.5);
+  padding: 5px;
+}

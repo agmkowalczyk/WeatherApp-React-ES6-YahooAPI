@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: #fff;
+  background: url("maxpixel.freegreatpicture.com-Wind-Cloud-Blue-Fly-Nature-Flight-Air-White-Sky-1961939.jpg");
+  background-size: cover;
+  /* width: 100vw;
+  height: 100vh; */
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+#root {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100vw;
+}

@@ -1,0 +1,22 @@
+.Searchform {
+  text-align: right;
+}
+
+.Searchform-text,
+.Searchform-submit {
+  padding: 5px 10px;
+  border: 1px solid rgba(23, 52, 82, 0.7);
+  border-radius: 2px;
+}
+
+.Searchform-submit {
+  background-color: #022f49;
+  color: #eaeaea;
+  box-shadow: 1px 1px 1px rgba(23, 52, 82, 0.2);
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.Searchform-submit:hover {
+  background-color: rgba(23, 52, 82, 0.7);
+}

@@ -1,0 +1,25 @@
+.Condition {
+  margin-bottom: 20px;
+  padding: 0 30px;
+}
+
+.Condition-temp {
+  font-size: 6em;
+}
+
+.Condition-text {
+  font-size: 1.1em;
+}
+
+.Condition-date {
+  font-style: italic;
+  font-size: .8em;
+  margin-bottom: 80px;
+}
+
+.small-icon {
+  font-size: 0.3em;
+  position: relative;
+  top: -48px;
+  margin-right: 20px
+}

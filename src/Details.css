@@ -1,0 +1,32 @@
+.Details {
+  background: rgba(0,0,0,.4);
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.DetailsList {
+  padding: 5px 30px;
+}
+
+.DetailsList div {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid rgba(255,255,255,.1);
+  padding: 6px 0;
+}
+
+.DetailsList div span {
+  flex: 2;
+}
+
+.DetailsList div span:first-child {
+  flex: 3;
+}
+
+.DetailsList div div {
+  border: none;
+}
+
+.DetailsList div div i {
+  margin-right: 10px;
+}

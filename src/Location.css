@@ -1,0 +1,12 @@
+.Location {
+  padding: 10px 30px;
+}
+
+.Location-city {
+  font-size: 1.5em;
+}
+
+.Location-country {
+  font-size: 1em;
+  margin: 5px 0;
+}
