@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ForecastDay from './ForecastDay';
 import './Forecast.css';
 
-class Forecast extends React.Component {
+class Forecast extends Component {
   render() {
     const forecast = this.props.forecast;
     return (
