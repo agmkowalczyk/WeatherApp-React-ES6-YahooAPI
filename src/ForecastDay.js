@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './ForecastDay.css';
 
-class ForecastDay extends React.Component {
+class ForecastDay extends Component {
   convertDayNames(day) {
     switch (day) {
       case 'Mon': return 'Monday';
@@ -11,6 +11,7 @@ class ForecastDay extends React.Component {
       case 'Fri': return 'Friday';
       case 'Sat': return 'Saturday';
       case 'Sun': return 'Sunday';
+      default: return;
     }
   }
   render() {
